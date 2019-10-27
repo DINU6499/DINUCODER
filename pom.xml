@@ -1,13 +1,13 @@
 <project>
   <modelVersion>4.0.0</modelVersion>
-  <groupId>@groupId@</groupId>
-  <artifactId>@artifactId@</artifactId>
-  <version>@version@</version>
+  <groupId>org.jslipc</groupId>
+  <artifactId>jslipc</artifactId>
+  <version>0.2.0</version>
   <packaging>jar</packaging>
 
   <name>@ant.project.name@</name>
-  <description>@description@</description>
-  <url>@project.url@</url>
+  <description>my name</description>
+  <url>http://www.jslipc.org/@</url>
 
   <licenses>
     <license>
